@@ -35,7 +35,7 @@ A clean, modern BMI (Body Mass Index) Calculator built using **HTML**, **CSS**, 
 
 ### 📸 Preview
 
-![BMI Calculator Screenshot](Screenshot .png)
+![BMI Calculator Screenshot](Screenshot.png)
 
 ---
 
